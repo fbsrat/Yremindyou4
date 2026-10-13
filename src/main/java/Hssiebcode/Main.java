@@ -30,9 +30,31 @@ public class Main {
 // Store information
 // Your name
 // You age
+      /*  a vehicle identification number in the range 1000000 - 9999999
+● a vehicle make /model (e.g. Ford Explorer) String carModel= “ ford explorer’’
+● a vehicle color String carColor =”   ”
+● whether the vehicle has a towing package
+● an odometer reading
+● a price
+● a quality rating (A, B, or C)
+● a phone number
+● a social security number
+● a zip code*/
+
 // Your weight
 // Dream Salary per month
 // firstLetterOfYourLastname
+
+        String carModel=" FORD EXPLORER";
+        String carColor=" gray";
+        boolean carHasTowingPackage= true;
+        boolean carHasOdemeterReading=true;
+        float carPrice= 150000.60F;
+        int socialSecurityNumber=34;
+        int zipCode=1214;
+
+
+
 
     }
 }
