@@ -7,7 +7,8 @@ public class Main {
     System .out.println(" welcome to remind me ");
     System .out.println(" ");
     System .out.println(" dont forget to take a walk");
-    System .out.println(" remind me to drink water");
+    System .out.println(" remindeer");
+
         //Datatypes
         //Datatypes
         String name = "fana"; // Text
